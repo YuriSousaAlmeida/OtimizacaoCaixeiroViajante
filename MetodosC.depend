@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1776976800 source:c:\users\aluno\documents\prog\metodosc\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Header.h"
+
+1776977690 c:\users\aluno\documents\prog\metodosc\header.h
+
